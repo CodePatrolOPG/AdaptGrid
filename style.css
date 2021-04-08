@@ -167,6 +167,9 @@ body {
   .image-gallery a::before {
     display: none;
   }
+  * {
+  outline: none;
+  }
   /* .image-gallery a::before:active {
     display: contents;
   } */
