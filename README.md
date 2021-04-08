@@ -1,2 +1,0 @@
-# AdaptGrid
-AdaptGrid
