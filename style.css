@@ -167,8 +167,8 @@ body {
   .image-gallery a::before {
     display: none;
   }
-  * {
-  outline: none;
+  *:active, *:hover {
+  background: transparent;
   }
   /* .image-gallery a::before:active {
     display: contents;
