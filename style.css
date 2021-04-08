@@ -141,7 +141,7 @@ body {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 600px, pointer:coarse) {
   .image-gallery {
     grid-template-areas: 
               'img-1 img-1 img-1 img-1'
