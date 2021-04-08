@@ -167,10 +167,4 @@ body {
   .image-gallery a::before {
     display: none;
   }
-  * {
-  pointer-events: none;
-  }
-  /* .image-gallery a::before:active {
-    display: contents;
-  } */
 }
